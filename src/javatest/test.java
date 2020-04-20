@@ -14,7 +14,7 @@ public class test {
 
     private static int add(){
         int a =  add()+1;
-        if (a )
+//        if (a )
         return a;
     }
 }
